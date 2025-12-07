@@ -1,0 +1,19 @@
+[app]
+name = "mynewapp"
+domain = "mynewapp.mixnd.com"
+
+[infrastructure]
+vm = "localhost"
+coolify_url = "https://coolify.mixnd.com"
+coolify_app_uuid = "e8wg4c44ogssc4kc0o8g80cg"
+
+[github]
+repo = "mymixnd/mynewapp"
+repo_url = "https://github.com/mymixnd/mynewapp"
+
+[supabase]
+project_ref = "tjejdjaxkasrvvtivtpv"
+project_url = "https://tjejdjaxkasrvvtivtpv.supabase.co"
+
+[doppler]
+project = "mynewapp"
